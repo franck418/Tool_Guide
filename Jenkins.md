@@ -16,5 +16,5 @@
 
 登陆后，选择 系统管理-->管理插件。
 
-![1](https://note.youdao.com/favicon.ico)
-![安装成功提示](https://github.com/franck418/Tool_Guide/blob/master/git/install.png)
+![选择](https://github.com/franck418/Tool_Guide/blob/master/Jenkins/1.png)
+
