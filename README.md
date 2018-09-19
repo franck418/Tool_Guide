@@ -5,3 +5,4 @@ Jenkins
 
 Git
 
+CentOS 安装 JDK
